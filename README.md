@@ -17,3 +17,5 @@
 💻 Simple and clean user interface
 
 🖥️ Runs smoothly in any modern web browser without any dependencies
+
+✅ Clean and responsive UI
