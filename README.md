@@ -19,3 +19,6 @@
 🖥️ Runs smoothly in any modern web browser without any dependencies
 
 ✅ Clean and responsive UI
+
+# 🧑‍💻 Author
+Barsha Mondal 
