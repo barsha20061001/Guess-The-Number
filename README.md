@@ -27,5 +27,10 @@ CSS
 
 JavaScript (Vanilla)
 
+# 📸 Preview
+
+<img width="1046" height="858" alt="Screenshot 2025-07-15 110723" src="https://github.com/user-attachments/assets/303b1acd-ca28-47ab-a4df-cd3821e03b89" />
+
+
 # 🧑‍💻 Author
 Barsha Mondal 
