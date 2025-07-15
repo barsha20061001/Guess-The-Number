@@ -30,11 +30,11 @@
 ✅ Clean and responsive UI
 
 # 🛠️ Technologies Used
-HTML
+💻HTML
 
-CSS
+🎨CSS
 
-JavaScript (Vanilla)
+⚙️JavaScript (Vanilla)
 
 # 📸 Preview
 
