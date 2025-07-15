@@ -8,6 +8,7 @@ body {
   min-width: 480px;
   margin: 0 auto;
   background-color: #212121;
+  padding-top: 30px;
 }
 
 .lastResult {
@@ -26,7 +27,7 @@ button {
   width: 250px;
   height: 50px;
   border-radius: 25px;
-  font-size: 30px;
+  font-size: 20px;
   border-style: none;
   margin-top: 30px;
   /* margin-left: 50px; */
@@ -72,17 +73,28 @@ button {
   box-sizing: border-box;
   text-align: center;
   width: 450px;
-  height: 550px;
+  height: 670px;
   background-color: #474747;
   color: #fff;
   font-size: 25px;
+
 }
+#wrapper h1 {
+  font-size: 35px;
+  height: 75px;
+  text-align: center;
+}
+
 
 h1 {
   background-color: #161616;
-
+  font-size: 40px;
   color: #fff;
-  text-align: center;
+  height: 100px;
+  margin: 0px;
+  display: flex;
+  align-items: center;     /* vertically center */
+  justify-content: center;
 }
 
 p {
